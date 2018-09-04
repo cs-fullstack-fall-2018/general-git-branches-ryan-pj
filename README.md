@@ -1,3 +1,5 @@
+KEY: Completed
+
 # Assignment on using branches in Git
 
 1. Check status of your local repository
